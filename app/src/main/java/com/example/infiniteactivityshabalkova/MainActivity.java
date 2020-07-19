@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Random random = new Random();
-        int rand = random.nextInt(99)+1;
+        int rand = random.nextInt(100)+1;
         final TextView myLink = findViewById(R.id.linkText);
         myLink.setText("http://myfile.org/" + rand);
 
