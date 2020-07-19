@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InfiniteActivityShabalkova</string>
+    <string name="forward_button">Вперед</string>
+    <string name="backwards_button">Назад</string>
+</resources>
